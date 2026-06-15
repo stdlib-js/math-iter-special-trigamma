@@ -1,5 +1,5 @@
-"use strict";var a=function(e,r){return function(){return r||e((r={exports:{}}).exports,r),r.exports}};var t=a(function(o,i){
-var u=require('@stdlib/math-iter-tools-map/dist'),s=require('@stdlib/math-base-special-trigamma/dist');function m(e){return u(e,s)}i.exports=m
-});var n=t();module.exports=n;
+"use strict";var u=function(e,r){return function(){try{return r||e((r={exports:{}}).exports,r),r.exports}catch(a){throw (r=0, a)}};};var t=u(function(p,i){
+var s=require('@stdlib/math-iter-tools-map/dist'),m=require('@stdlib/math-base-special-trigamma/dist');function n(e){return s(e,m)}i.exports=n
+});var c=t();module.exports=c;
 /** @license Apache-2.0 */
 //# sourceMappingURL=index.js.map
